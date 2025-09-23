@@ -1,4 +1,4 @@
-# 👋 Vanakkam, I'm Tamil (aka tamilko)
+# 👋 Vanakkam, I'm Tamil (aka Tamilko)
 
 🛠️ Automation builder | Former Head of Ops | n8n + AI + API enthusiast  
 🇲🇾 Based in Malaysia | Focused on solving real-world business problems with automation
