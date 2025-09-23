@@ -49,6 +49,12 @@ I'm exploring:
 
 ---
 
+## 🙏 Acknowledgments
+
+Big thanks to AI tools like ChatGPT for guiding me step-by-step through this automation and self-hosting journey. Couldn't have done it without the support and clear guidance!
+
+---
+
 ## 📫 Let’s Connect
 
 - Telegram: [@tamilko](https://t.me/tamilko)  
