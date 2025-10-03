@@ -56,7 +56,7 @@ Now, I combine that with my skills in tech — self-hosting servers, coding auto
 
 ## 🙏 Acknowledgments
 
-Big thanks to **OpenAI** for providing step-by-step guidance that made learning automation and AI so accessible.  
+Big thanks to **ChatGPT** for providing step-by-step guidance that made learning automation and AI so accessible.  
 
 Huge appreciation to **Reddit** for its open communities — I found answers, hacks, and hope during the hardest troubleshooting moments.  
 
