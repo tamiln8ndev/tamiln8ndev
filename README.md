@@ -1,64 +1,69 @@
-# 👋 Vanakkam, I'm Tamil (aka Tamilko)
+👋 Vanakkam, I’m Tamil (aka Tamilko)
+🛠️ Operations leader | Automation builder | AI & API enthusiast | E-commerce & logistics expert
+🇲🇾 Based in Malaysia | Bridging business and technology to solve real-world problems
 
-🛠️ Automation builder | Former Head of Ops | n8n + AI + API enthusiast  
-🇲🇾 Based in Malaysia | Focused on solving real-world business problems with automation
+🧠 My Journey So Far
 
----
+After a decade in operations — leading logistics, customer service, and e-commerce management — I found a new passion: automation and AI. I’m all about making complex workflows simple and efficient, whether it’s moving stock in warehouses or building bots that generate AI art.
 
-## 🧠 My Journey So Far
+From managing Lazada and Shopee stores to negotiating 3PL contracts and leading teams, I understand business needs deeply. Now, I combine that with my skills in tech — self-hosting servers, coding automation in n8n, and integrating AI tools — to create seamless systems that save time, cut costs, and boost growth.
 
-After 10 years in the e-commerce industry, I shifted gears to focus on automation, self-hosted tools, and AI integration.  
-In the past year, I’ve built a variety of useful bots, backend tools, and workflow systems from scratch — fully self-taught.
+🧰 Tools & Skills
 
----
+Operations & Business:
+Logistics management, 3PL coordination, inventory control, customer service leadership, e-commerce platforms (Lazada, Shopee, TikTok, Magento), vendor negotiation, data-driven decision making
 
-## 🧰 Tools & Skills
+Automation & Tech:
+n8n workflows, Telegram bots, API integrations, Docker, PostgreSQL, Nginx, Certbot, rclone backups, cron jobs, FFmpeg
 
-- Automation: n8n, Make.com, Telegram Bots, APIs  
-- Backend: Docker, Ubuntu, PostgreSQL, Nginx, Certbot, rclone  
-- AI: OpenAI, OpenRouter, Pollinations, Fal.ai, Hugging Face Spaces  
-- E-commerce: Shopify, Magento, Laravel backend coordination  
-- Reporting: Google Sheets + Power Query + Custom Dashboards  
+AI & Creative Tech:
+OpenAI GPT, Pollinations (text-to-image), Hugging Face Spaces, OpenRouter, Fal.ai
 
----
+Data & Reporting:
+Advanced Excel (pivot tables, Power Query), Power BI, Google Sheets, custom dashboards
 
-## 💡 Projects I've Built
+💡 Projects I’ve Built
 
-- Text-to-Image Bot (Telegram + Pollinations API)  
-- Weather Report Bot (Real-time Telegram + OpenWeatherMap)  
-- Daily Journal Logger (Telegram → Google Sheets via n8n)  
-- Full Automation Server (Hetzner VPS with scheduled backups, HTTPS, and secure bots)  
+Text-to-Image Bot: AI art generation on Telegram using Pollinations API
 
----
+Weather Report Bot: Real-time weather updates via Telegram and OpenWeatherMap API
 
-## ⚡ What I'm Doing Now
+Daily Journal Logger: Telegram bot that logs journal entries to Google Sheets automatically
 
-- Supporting a Malaysian restaurant chain with automation (reviews, reports, content)  
-- Building e-commerce backend flows for a local wholesale brand  
-- Planning automation-as-a-service for old-school businesses in MY/SG/BN  
-- Collaborating with remote partners on digital products  
+Automation Server: Self-hosted n8n with secure HTTPS, scheduled backups, and cloud database
 
----
+AI Audio Assistant: Voice-response Telegram bot powered by GPT for quick, hands-free answers
 
-## 🌱 What’s Next
+⚡ What I’m Doing Now
 
-I'm exploring:  
-- Scalable Telegram-based business tools  
-- Affordable automation services for SMEs  
-- Better ways to integrate AI + automation in daily workflows  
+Supporting local Malaysian businesses with automation in reviews, reports, and content
 
----
+Building backend flows for wholesale e-commerce brands to streamline order fulfillment
 
-## 🙏 Acknowledgments
+Developing scalable, affordable automation services aimed at SMEs in MY/SG/BN
 
-Big thanks to AI tools like ChatGPT for guiding me step-by-step through this automation and self-hosting journey. Couldn't have done it without the support and clear guidance!
+Collaborating remotely to create digital products that merge AI and business ops
 
----
+🌱 What’s Next
 
-## 📫 Let’s Connect
+Deeper AI + automation integration for daily workflows
 
-- Telegram: [@tamilko](https://t.me/tamilko)  
-- Email: [tamil.n8n@gmail.com](mailto:tamil.n8n@gmail.com)  
-- GitHub: [github.com/tamiln8ndev](https://github.com/tamiln8ndev)  
+Building multi-channel Telegram business tools with user-friendly designs
 
-> "Progress is better than perfection — build, test, learn, repeat."
+Expanding automation-as-a-service offerings for traditional businesses
+
+Learning new ways to combine data analytics, AI, and operations insights
+
+🙏 Acknowledgments
+
+Big thanks to AI tools like ChatGPT for guiding me step-by-step through this automation and self-hosting journey. Also grateful for helpful communities like Reddit, where I found crucial tips and support that made this possible. Couldn’t have done it without all the shared knowledge and clear guidance!
+
+📫 Let’s Connect
+
+Telegram: @tamilko
+
+Email: tamil.n8n@gmail.com
+
+GitHub: github.com/tamiln8ndev
+
+"Progress is better than perfection — build, test, learn, repeat."
