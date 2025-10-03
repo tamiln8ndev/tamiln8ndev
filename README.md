@@ -56,11 +56,13 @@ Now, I combine that with my skills in tech — self-hosting servers, coding auto
 
 ## 🙏 Acknowledgments
 
-Big thanks to AI tools like ChatGPT for guiding me step-by-step through this automation and self-hosting journey.  
+Big thanks to **OpenAI** for providing step-by-step guidance that made learning automation and AI so accessible.  
 
-Also grateful for helpful communities like Reddit, where I found crucial tips and support that made this possible.  
+Huge appreciation to **Reddit** for its open communities — I found answers, hacks, and hope during the hardest troubleshooting moments.  
 
-Couldn’t have done it without all the shared knowledge and clear guidance!
+Grateful to **YouTube** creators who posted tutorials, walkthroughs, and self-hosting guides — your content was like having mentors on-demand.  
+
+Couldn't have done this without all the shared knowledge, kindness, and clear guidance from the open-source and tech communities around the world.
 
 ---
 
