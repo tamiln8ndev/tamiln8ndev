@@ -58,6 +58,8 @@ Now, I combine that with my skills in tech — self-hosting servers, coding auto
 
 Big thanks to **ChatGPT** for providing step-by-step guidance that made learning automation and AI so accessible.  
 
+Shoutout to the **n8n Community** — your forum, templates, and shared workflows helped me build faster and smarter.  
+
 Huge appreciation to **Reddit** for its open communities — I found answers, hacks, and hope during the hardest troubleshooting moments.  
 
 Grateful to **YouTube** creators who posted tutorials, walkthroughs, and self-hosting guides — your content was like having mentors on-demand.  
